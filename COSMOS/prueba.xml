@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>mi canal de RSS</title>
+        <link>https://frabjous-sopapillas-51d850.netlify.app/</link>
+        <description>Noticias de actualidad</description>
+        <item>
+            <title>noticias sobre el espacio</title>
+            <link>https://www.eitb.eus/es/tag/nasa/</link>
+            <description>Noticias sobre el universo</description>
+        </item>
+    </channel>
+</rss>
